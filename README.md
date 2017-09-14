@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Contact: contact of the administrators in the list below on Slack.
+Contact: contact one of the administrators in the [list](#list-of-administrators) below on Slack.
 
 ## Why have a Code of Conduct?
 
